@@ -1,5 +1,5 @@
 {
-.appVersion = "1356";
+.appVersion = "1342";
 DisplayStrings = (
 "/.notdef"
 );
@@ -41571,6 +41571,94 @@ width = 198;
 }
 );
 note = HT;
+},
+{
+color = 11;
+glyphname = atingacute;
+lastChange = "2021-05-31 22:12:20 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Aeacute;
+lastChange = "2021-05-31 22:12:20 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Odotmacron;
+lastChange = "2021-05-31 22:12:20 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = odotmacron;
+lastChange = "2021-05-31 22:12:20 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Acircumflextlde;
+lastChange = "2021-05-31 22:12:20 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = acircumflextlde;
+lastChange = "2021-05-31 22:12:20 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Acircumflexdotabelow;
+lastChange = "2021-05-31 22:12:20 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = acircumflexdotabelow;
+lastChange = "2021-05-31 22:12:20 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 600;
+}
+);
 }
 );
 instances = (
