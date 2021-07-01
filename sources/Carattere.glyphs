@@ -49,7 +49,7 @@ Tag = wght;
 );
 }
 );
-date = "2013-05-01 04:30:32 +0000";
+date = "2021-07-01 21:24:40 +0000";
 designer = "Robert E. Leuschke";
 designerURL = www.typesetit.com;
 disablesNiceNames = 1;
@@ -112,31 +112,35 @@ capHeight = 690;
 customParameters = (
 {
 name = typoAscender;
-value = 627;
+value = 800;
 },
 {
 name = typoDescender;
-value = -324;
+value = -350;
 },
 {
 name = typoLineGap;
-value = 71;
-},
-{
-name = winAscent;
-value = 1000;
-},
-{
-name = winDescent;
-value = 400;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 627;
+value = 800;
 },
 {
 name = hheaDescender;
-value = -324;
+value = -350;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1005;
+},
+{
+name = winDescent;
+value = 500;
 },
 {
 name = strikeoutPosition;
@@ -72536,5 +72540,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
