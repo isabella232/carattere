@@ -4,7 +4,9 @@ DisplayStrings = (
 dfhkl,
 abcdefghijklmnopqrstuvwxyz,
 fgjpqy,
-"ABCDEFGHIJKLMN\012OPQRSTUVWXYZ"
+"ABCDEFGHIJKLMN\012OPQRSTUVWXYZ",
+"/Germandbls ß",
+"/nbspace"
 );
 copyright = "Copyright 2020 The Carattere Project Authors (https://github.com/googlefonts/carattere)";
 customParameters = (
@@ -321,13 +323,14 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2021-07-01 20:46:56 +0000";
+lastChange = "2021-07-01 21:29:24 +0000";
 layers = (
 {
 layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
-width = 259;
+width = 198;
 }
 );
+widthMetricsKey = space;
 note = nbspace;
 unicode = 00A0;
 },
