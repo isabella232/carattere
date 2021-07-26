@@ -1,14 +1,7 @@
 {
 .appVersion = "1356";
 DisplayStrings = (
-"/circumflexcomb ô",
-"/gravecomb.case",
-"/gravecomb",
-"/Acircumflextilde",
-"/brevecomb_acutecomb",
-"/Gbreve",
-"ó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohungarumlaut/oinvertedbreve/omacron/oogonek õ/otildemacron",
-"ÔÓ/Obreve/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Õ\012ó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohungarumlaut/oinvertedbreve/omacron/oogonek õ/otildemacron"
+"/tildecomb/otildemacron ó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohungarumlaut/oinvertedbreve/omacron/oogonek õ/numero"
 );
 classes = (
 {
@@ -18438,7 +18431,7 @@ unicode = 00F5;
 {
 color = 11;
 glyphname = otildemacron;
-lastChange = "2021-07-25 09:34:59 +0000";
+lastChange = "2021-07-26 15:15:55 +0000";
 layers = (
 {
 components = (
@@ -18451,7 +18444,7 @@ transform = "{1, 0, 0, 1, 144, -15}";
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 155, 94}";
+transform = "{1, 0, 0, 1, 178, 67}";
 }
 );
 layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
@@ -34868,7 +34861,7 @@ unicode = 030A;
 },
 {
 glyphname = tildecomb;
-lastChange = "2021-07-22 18:57:02 +0000";
+lastChange = "2021-07-26 15:15:55 +0000";
 layers = (
 {
 anchors = (
@@ -34882,7 +34875,7 @@ position = "{79, 366}";
 },
 {
 name = top;
-position = "{107, 475}";
+position = "{130, 448}";
 }
 );
 hints = (
