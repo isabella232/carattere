@@ -110,42 +110,46 @@ name = liga;
 fontMaster = (
 {
 alignmentZones = (
-"{732, 28}",
+"{690, 15}",
 "{616, 10}",
-"{336, 30}",
-"{1, -8}",
-"{-260, -2}"
+"{355, 10}",
+"{0, 20}",
+"{-250, -10}"
 );
-ascender = 1000;
-capHeight = 754;
+ascender = 616;
+capHeight = 690;
 customParameters = (
 {
 name = typoAscender;
-value = 627;
+value = 800;
 },
 {
 name = typoDescender;
-value = -324;
+value = -350;
 },
 {
 name = typoLineGap;
-value = 71;
-},
-{
-name = winAscent;
-value = 1000;
-},
-{
-name = winDescent;
-value = 400;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 627;
+value = 800;
 },
 {
 name = hheaDescender;
-value = -324;
+value = -350;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1005;
+},
+{
+name = winDescent;
+value = 500;
 },
 {
 name = strikeoutPosition;
@@ -164,7 +168,7 @@ name = underlineThickness;
 value = 20;
 }
 );
-descender = -500;
+descender = -250;
 guideLines = (
 {
 locked = 1;
@@ -209,7 +213,7 @@ verticalStems = (
 );
 weightValue = 500;
 widthValue = 5;
-xHeight = 366;
+xHeight = 355;
 }
 );
 glyphs = (
