@@ -211,7 +211,7 @@ verticalStems = (
 41,
 56
 );
-weightValue = 500;
+weightValue = 400;
 widthValue = 5;
 xHeight = 355;
 }
@@ -31868,16 +31868,7 @@ note = HT;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = CarattereROB;
-},
-{
-name = postscriptFontName;
-value = CarattereROB;
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "3191725B-F824-48C7-90A0-BAE99CBF9356" = 1;
 };
