@@ -1,5 +1,5 @@
 {
-.appVersion = "1356";
+.appVersion = "1352";
 DisplayStrings = (
 "-o­ng"
 );
@@ -10,42 +10,52 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "©2020";
+copyright = "Copyright 2020 The Carattere Project Authors (https://github.com/googlefonts/carattere)";
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-6,
-4,
-8,
-0,
-0,
-2,
-0,
-2
-);
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 },
 {
-name = unicodeRanges;
-value = (
-0,
-1
-);
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = GOOG;
 },
 {
 name = fsType;
 value = (
-2
 );
 },
 {
-name = blueScale;
-value = 0.26667;
+name = glyphOrder;
+value = (
+.notdef,
+CR,
+NULL,
+space,
+nbspace
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
 }
 );
-date = "2013-05-01 04:30:32 +0000";
+}
+);
+date = "2021-08-10 19:43:30 +0000";
+designer = "Robert E. Leuschke";
+designerURL = www.typesetit.com;
 disablesNiceNames = 1;
 familyName = Carattere;
 featurePrefixes = (
@@ -203,6 +213,102 @@ xHeight = 366;
 }
 );
 glyphs = (
+{
+glyphname = .notdef;
+lastChange = "2021-07-28 11:03:36 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+paths = (
+{
+closed = 1;
+nodes = (
+"462 0 LINE",
+"471 10 LINE",
+"471 611 LINE",
+"462 621 LINE",
+"50 621 LINE",
+"40 611 LINE",
+"40 10 LINE",
+"50 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"143 148 LINE",
+"231 312 LINE",
+"143 472 LINE",
+"161 507 LINE",
+"249 345 LINE",
+"339 507 LINE",
+"360 472 LINE",
+"269 309 LINE",
+"360 148 LINE",
+"339 114 LINE",
+"249 274 LINE",
+"161 114 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"57 604 LINE",
+"456 604 LINE",
+"456 17 LINE",
+"57 17 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"421 48 LINE",
+"421 568 LINE",
+"90 568 LINE",
+"90 48 LINE"
+);
+}
+);
+width = 511;
+}
+);
+note = .notdef;
+},
+{
+glyphname = CR;
+lastChange = "2021-07-28 11:03:36 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 198;
+}
+);
+note = CR;
+},
+{
+glyphname = space;
+lastChange = "2021-07-28 11:03:36 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 198;
+}
+);
+note = space;
+unicode = 0020;
+},
+{
+glyphname = nbspace;
+lastChange = "2021-07-28 11:03:36 +0000";
+layers = (
+{
+layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
+width = 259;
+}
+);
+note = nbspace;
+unicode = 00A0;
+},
 {
 glyphname = A;
 lastChange = "2021-07-28 11:03:36 +0000";
@@ -21830,41 +21936,6 @@ width = 388;
 unicode = 27E9;
 },
 {
-glyphname = space;
-lastChange = "2021-07-28 11:03:36 +0000";
-layers = (
-{
-layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
-width = 198;
-}
-);
-note = space;
-unicode = 0020;
-},
-{
-glyphname = nbspace;
-lastChange = "2021-07-28 11:03:36 +0000";
-layers = (
-{
-layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
-width = 259;
-}
-);
-note = nbspace;
-unicode = 00A0;
-},
-{
-glyphname = CR;
-lastChange = "2021-07-28 11:03:36 +0000";
-layers = (
-{
-layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
-width = 198;
-}
-);
-note = CR;
-},
-{
 glyphname = DEL;
 lastChange = "2021-07-28 11:03:36 +0000";
 layers = (
@@ -21875,67 +21946,6 @@ width = 196;
 );
 note = DEL;
 unicode = 007F;
-},
-{
-glyphname = .notdef;
-lastChange = "2021-07-28 11:03:36 +0000";
-layers = (
-{
-layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
-paths = (
-{
-closed = 1;
-nodes = (
-"462 0 LINE",
-"471 10 LINE",
-"471 611 LINE",
-"462 621 LINE",
-"50 621 LINE",
-"40 611 LINE",
-"40 10 LINE",
-"50 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"143 148 LINE",
-"231 312 LINE",
-"143 472 LINE",
-"161 507 LINE",
-"249 345 LINE",
-"339 507 LINE",
-"360 472 LINE",
-"269 309 LINE",
-"360 148 LINE",
-"339 114 LINE",
-"249 274 LINE",
-"161 114 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"57 604 LINE",
-"456 604 LINE",
-"456 17 LINE",
-"57 17 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"421 48 LINE",
-"421 568 LINE",
-"90 568 LINE",
-"90 48 LINE"
-);
-}
-);
-width = 511;
-}
-);
-note = .notdef;
 },
 {
 glyphname = Euro;
@@ -31870,7 +31880,9 @@ instanceInterpolations = {
 name = Regular;
 }
 );
+manufacturer = "Robert E. Leuschke";
+manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 2;
 }
