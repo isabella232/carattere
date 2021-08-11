@@ -7,7 +7,6 @@ DisplayStrings = (
 "oó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave/dieresiscomb ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/breveinvertedcomb/oinvertedbreve/omacron/oogonek ø/oslashacute õ/otildemacron",
 "Carattere/space |/space Version:/space 1.002/space |/space 21Output/space date:/space 08|/space Page/space :1CarattereAlle/space Menschen/space werden/space frei/space und/space gleich/space in/space Wu/dieresiscomb rde/space und/space Rechten/space geboren./space Siesind/space mit/space Vernunft/space und/space Gewissen/space ausgestattet/space und/space sollten/space im/space Geiste/space der/space Bru/dieresiscomb derlichkeitgegeneinander/space handeln/space weggelegd./space GermanV/scaron etci/space/lcaron udia/space sa/space rodia/space slobodní/space a/space rovní/space v/space dôstojnosti/space a/space právach./space Sú/space obdarení/space rozumoma/space svedomím/space a/space mali/space by/space kona/tcaron/space vo/ccaron i/space sebe/space v/space duchu/space bratstva./space Slovak/quotedblbase Kdy/zcaron/space si/space to/space shrneme,/space tak/space vy/acutecomb sledkem/space ro/ccaron ního/space boje/space s/space covidem/space je,/space/zcaron e/space místo/space jedny/acutecomb rou/scaron ky/space máme/space nosit/space dv/ecaron ./quotedblleft/space CzchecAlle/space mennesker/space er/space født/space frie/space og/space likeverdige/space og/space verdige./space De/space er/space utstyrt/space med/space fornuft/space ogsamvittighet/space og/space bør/space handle/space mot/space hverandre/space i/space en/space brorskapsånd./space NorwayTots/space els/space éssers/space humans/space neixen/space lliures/space i/space iguals/space en/space dignitat/space i/space drets./space Estan/space dotats/space deraó/space i/space consciència/space i/space han/space/dcaron actuar/space els/space uns/space amb/space els/space altres/space amb/space esperit/space de/space germanor.CatalanWszyscy/space ludzie/space rodz/aogonek/space si/eogonek/space wolni/space i/space równi/space pod/space wzgl/eogonek dem/space godno/sacute ci/space i/space praw./space S/aogonek/space obdarzenirozumem/space i/space sumieniem/space i/space powinni/space post/eogonek powa/cacute/space wobec/space siebie/space w/space duchu/space braterstwa.Polishavion/space award/space ¡tomato/space fear!/space ovoide/space tamesis/space ¿vamos?/space ócreo/space/tcaron/zacute/quotedblleft Another/space tye/quotedblright/space «Another/space Type»1234567890%email@mywebsite.com/space",
 "l·l/ldot ll",
-"j/jdotless/jcircumflex",
 "mni/idotless/dotaccentcomb/idotaccent",
 "i/idotless í/ibreve/icaron î/idblgrave ï/idotaccent/idotbelow ì/ihookabove/iinvertedbreve/imacron/iogonek/itilde \012minín"
 );
@@ -9569,7 +9568,7 @@ unicode = 0168;
 },
 {
 glyphname = V;
-lastChange = "2021-08-10 23:26:00 +0000";
+lastChange = "2021-08-11 00:15:31 +0000";
 layers = (
 {
 layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
@@ -9722,7 +9721,7 @@ nodes = (
 );
 }
 );
-width = 606;
+width = 603;
 }
 );
 note = V;
@@ -32698,6 +32697,7 @@ V = {
 e = -74;
 i = -54;
 o = -89;
+scaron = -72;
 };
 f = {
 f = -16;
