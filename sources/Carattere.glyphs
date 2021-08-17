@@ -8,7 +8,7 @@ DisplayStrings = (
 "Carattere/space |/space Version:/space 1.002/space |/space 21Output/space date:/space 08|/space Page/space :1CarattereAlle/space Menschen/space werden/space frei/space und/space gleich/space in/space Wu/dieresiscomb rde/space und/space Rechten/space geboren./space Siesind/space mit/space Vernunft/space und/space Gewissen/space ausgestattet/space und/space sollten/space im/space Geiste/space der/space Bru/dieresiscomb derlichkeitgegeneinander/space handeln/space weggelegd./space GermanV/scaron etci/space/lcaron udia/space sa/space rodia/space slobodní/space a/space rovní/space v/space dôstojnosti/space a/space právach./space Sú/space obdarení/space rozumoma/space svedomím/space a/space mali/space by/space kona/tcaron/space vo/ccaron i/space sebe/space v/space duchu/space bratstva./space Slovak/quotedblbase Kdy/zcaron/space si/space to/space shrneme,/space tak/space vy/acutecomb sledkem/space ro/ccaron ního/space boje/space s/space covidem/space je,/space/zcaron e/space místo/space jedny/acutecomb rou/scaron ky/space máme/space nosit/space dv/ecaron ./quotedblleft/space CzchecAlle/space mennesker/space er/space født/space frie/space og/space likeverdige/space og/space verdige./space De/space er/space utstyrt/space med/space fornuft/space ogsamvittighet/space og/space bør/space handle/space mot/space hverandre/space i/space en/space brorskapsånd./space NorwayTots/space els/space éssers/space humans/space neixen/space lliures/space i/space iguals/space en/space dignitat/space i/space drets./space Estan/space dotats/space deraó/space i/space consciència/space i/space han/space/dcaron actuar/space els/space uns/space amb/space els/space altres/space amb/space esperit/space de/space germanor.CatalanWszyscy/space ludzie/space rodz/aogonek/space si/eogonek/space wolni/space i/space równi/space pod/space wzgl/eogonek dem/space godno/sacute ci/space i/space praw./space S/aogonek/space obdarzenirozumem/space i/space sumieniem/space i/space powinni/space post/eogonek powa/cacute/space wobec/space siebie/space w/space duchu/space braterstwa.Polishavion/space award/space ¡tomato/space fear!/space ovoide/space tamesis/space ¿vamos?/space ócreo/space/tcaron/zacute/quotedblleft Another/space tye/quotedblright/space «Another/space Type»1234567890%email@mywebsite.com/space",
 "l·l/ldot ll",
 "mni/idotless/dotaccentcomb/idotaccent",
-"i/idotless í/ibreve/icaron î/idblgrave ï/dotaccentcomb/idotaccent/idotbelow ì/ihookabove/idotless/iinvertedbreve/imacron/iogonek/itilde \012minín",
+"i/idotless í/ibreve/icaron î/idblgrave ï/idotbelow ì/ihookabove/idotless/iinvertedbreve/imacron/idotless/dotaccentcomb/iogonek/itilde \012minín",
 "/idotless/idotaccent",
 "/dotbelowcomb/idotbelow",
 "/dotbelowcomb/idotbelow",
@@ -13347,17 +13347,17 @@ unicode = 0069;
 },
 {
 glyphname = idotless;
-lastChange = "2021-08-17 09:02:11 +0000";
+lastChange = "2021-08-17 09:06:55 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{83, 10}";
+position = "{73, 10}";
 },
 {
 name = ogonek;
-position = "{152, 15}";
+position = "{143, 15}";
 },
 {
 name = top;
@@ -13854,7 +13854,7 @@ unicode = 012B;
 },
 {
 glyphname = iogonek;
-lastChange = "2021-08-17 09:01:39 +0000";
+lastChange = "2021-08-17 09:07:27 +0000";
 layers = (
 {
 components = (
@@ -13867,7 +13867,7 @@ transform = "{1, 0, 0, 1, 152, -22}";
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, -6, 10}";
+transform = "{1, 0, 0, 1, -15, 10}";
 }
 );
 layerId = "3191725B-F824-48C7-90A0-BAE99CBF9356";
